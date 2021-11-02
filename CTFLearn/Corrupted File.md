@@ -16,5 +16,6 @@
 	DECODE IT
 
 Расшифровываем:
+	
 	$ echo ZmxhZ3tnMWZfb3JfajFmfQ== | base64 -d
 	flag{g1f_or_j1f}
